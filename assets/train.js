@@ -13,8 +13,6 @@ var firebaseConfig = {
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   
- 
-  
   var database = firebase.database();
   
   // 2. Button for adding Employees
