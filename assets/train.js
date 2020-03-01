@@ -72,9 +72,6 @@ var firebaseConfig = {
     var nextArrival ;
     var minutesAway ;
 
-
-
-   
   
     // To Create the new row
     var newRow = $("<tr>").append(
