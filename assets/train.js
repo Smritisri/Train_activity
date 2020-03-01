@@ -76,7 +76,7 @@ var firebaseConfig = {
 
    
   
-    // Create the new row
+    // To Create the new row
     var newRow = $("<tr>").append(
     $("<td>").text(trainDestination),
       $("<td>").text(trainFrequency),
